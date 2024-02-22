@@ -1,0 +1,114 @@
+
+Fold 0
+SAMPLE 3: targets-> 0 outputs-> 1
+SAMPLE 6: targets-> 0 outputs-> 1
+SAMPLE 9: targets-> 1 outputs-> 0
+SAMPLE 10: targets-> 0 outputs-> 1
+SAMPLE 26: targets-> 0 outputs-> 1
+SAMPLE 29: targets-> 0 outputs-> 1
+SAMPLE 35: targets-> 0 outputs-> 1
+SAMPLE 39: targets-> 0 outputs-> 1
+SAMPLE 70: targets-> 1 outputs-> 0
+SAMPLE 71: targets-> 1 outputs-> 0
+SAMPLE 80: targets-> 0 outputs-> 1
+SAMPLE 92: targets-> 0 outputs-> 1
+SAMPLE 97: targets-> 0 outputs-> 1
+SAMPLE 102: targets-> 1 outputs-> 0
+SAMPLE 107: targets-> 0 outputs-> 1
+SAMPLE 113: targets-> 1 outputs-> 0
+
+Fold 1
+SAMPLE 3: targets-> 1 outputs-> 0
+SAMPLE 16: targets-> 1 outputs-> 0
+SAMPLE 21: targets-> 0 outputs-> 1
+SAMPLE 28: targets-> 1 outputs-> 0
+SAMPLE 34: targets-> 0 outputs-> 1
+SAMPLE 41: targets-> 1 outputs-> 0
+SAMPLE 43: targets-> 1 outputs-> 0
+SAMPLE 46: targets-> 0 outputs-> 1
+SAMPLE 49: targets-> 0 outputs-> 1
+SAMPLE 66: targets-> 1 outputs-> 0
+SAMPLE 68: targets-> 1 outputs-> 0
+SAMPLE 72: targets-> 1 outputs-> 0
+SAMPLE 74: targets-> 0 outputs-> 1
+SAMPLE 75: targets-> 1 outputs-> 0
+SAMPLE 92: targets-> 1 outputs-> 0
+SAMPLE 101: targets-> 0 outputs-> 1
+SAMPLE 104: targets-> 1 outputs-> 0
+SAMPLE 108: targets-> 1 outputs-> 0
+SAMPLE 111: targets-> 0 outputs-> 1
+SAMPLE 113: targets-> 0 outputs-> 1
+SAMPLE 134: targets-> 1 outputs-> 0
+
+Fold 2
+SAMPLE 1: targets-> 0 outputs-> 1
+SAMPLE 2: targets-> 1 outputs-> 0
+SAMPLE 3: targets-> 0 outputs-> 1
+SAMPLE 9: targets-> 1 outputs-> 0
+SAMPLE 13: targets-> 0 outputs-> 1
+SAMPLE 21: targets-> 1 outputs-> 0
+SAMPLE 23: targets-> 0 outputs-> 1
+SAMPLE 32: targets-> 0 outputs-> 1
+SAMPLE 38: targets-> 1 outputs-> 0
+SAMPLE 67: targets-> 1 outputs-> 0
+SAMPLE 82: targets-> 0 outputs-> 1
+SAMPLE 83: targets-> 0 outputs-> 1
+SAMPLE 89: targets-> 1 outputs-> 0
+SAMPLE 93: targets-> 1 outputs-> 0
+SAMPLE 108: targets-> 1 outputs-> 0
+SAMPLE 117: targets-> 1 outputs-> 0
+SAMPLE 126: targets-> 1 outputs-> 0
+SAMPLE 130: targets-> 0 outputs-> 1
+SAMPLE 134: targets-> 0 outputs-> 1
+
+Fold 3
+SAMPLE 6: targets-> 1 outputs-> 0
+SAMPLE 21: targets-> 0 outputs-> 1
+SAMPLE 39: targets-> 0 outputs-> 1
+SAMPLE 44: targets-> 1 outputs-> 0
+SAMPLE 46: targets-> 0 outputs-> 1
+SAMPLE 48: targets-> 1 outputs-> 0
+SAMPLE 50: targets-> 1 outputs-> 0
+SAMPLE 55: targets-> 1 outputs-> 0
+SAMPLE 59: targets-> 1 outputs-> 0
+SAMPLE 60: targets-> 0 outputs-> 1
+SAMPLE 65: targets-> 1 outputs-> 0
+SAMPLE 66: targets-> 1 outputs-> 0
+SAMPLE 72: targets-> 1 outputs-> 0
+SAMPLE 75: targets-> 1 outputs-> 0
+SAMPLE 78: targets-> 1 outputs-> 0
+SAMPLE 83: targets-> 1 outputs-> 0
+SAMPLE 85: targets-> 0 outputs-> 1
+SAMPLE 95: targets-> 0 outputs-> 1
+SAMPLE 97: targets-> 1 outputs-> 0
+SAMPLE 105: targets-> 1 outputs-> 0
+SAMPLE 106: targets-> 1 outputs-> 0
+SAMPLE 108: targets-> 0 outputs-> 1
+SAMPLE 112: targets-> 1 outputs-> 0
+SAMPLE 118: targets-> 1 outputs-> 0
+SAMPLE 119: targets-> 1 outputs-> 0
+SAMPLE 121: targets-> 1 outputs-> 0
+SAMPLE 123: targets-> 1 outputs-> 0
+SAMPLE 130: targets-> 1 outputs-> 0
+SAMPLE 131: targets-> 1 outputs-> 0
+SAMPLE 135: targets-> 1 outputs-> 0
+
+Fold 4
+SAMPLE 15: targets-> 1 outputs-> 0
+SAMPLE 16: targets-> 0 outputs-> 1
+SAMPLE 20: targets-> 0 outputs-> 1
+SAMPLE 23: targets-> 1 outputs-> 0
+SAMPLE 25: targets-> 1 outputs-> 0
+SAMPLE 27: targets-> 1 outputs-> 0
+SAMPLE 38: targets-> 0 outputs-> 1
+SAMPLE 39: targets-> 1 outputs-> 0
+SAMPLE 48: targets-> 0 outputs-> 1
+SAMPLE 50: targets-> 0 outputs-> 1
+SAMPLE 60: targets-> 0 outputs-> 1
+SAMPLE 89: targets-> 0 outputs-> 1
+SAMPLE 91: targets-> 0 outputs-> 1
+SAMPLE 94: targets-> 0 outputs-> 1
+SAMPLE 100: targets-> 0 outputs-> 1
+SAMPLE 110: targets-> 1 outputs-> 0
+SAMPLE 130: targets-> 0 outputs-> 1
+SAMPLE 135: targets-> 1 outputs-> 0
